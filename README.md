@@ -1,3 +1,6 @@
+<!-- Readme creado con la plantilla de https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<!-- Banner creado con el repositorio de https://designstripe.com/ -->
+
 ![Banner decorativo](https://github.com/raquel-castillejo/raquel-castillejo/blob/main/github-profile-banner.jpg)
 
 
@@ -25,6 +28,9 @@
 ---
 
 ---
+
+<!-- This readme was created with https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<!-- The banner was created with https://designstripe.com/ -->
 
 ![Decorative banner](https://github.com/raquel-castillejo/raquel-castillejo/blob/main/github-profile-banner.jpg)
 
