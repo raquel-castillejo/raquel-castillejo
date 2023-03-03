@@ -1,3 +1,6 @@
+![Banner decorativo](https://github.com/raquel-castillejo/raquel-castillejo/blob/main/github-profile-banner.jpg)
+
+
 (ESP // ENG below)
 
 # Hola 👋, soy Raquel Castillejo
@@ -22,6 +25,8 @@
 ---
 
 ---
+
+![Decorative banner](https://github.com/raquel-castillejo/raquel-castillejo/blob/main/github-profile-banner.jpg)
 
 (ENG)
 
