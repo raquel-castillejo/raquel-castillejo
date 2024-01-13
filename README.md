@@ -10,7 +10,7 @@
 
 ### Estudiante de frontend en Madrid
 
-- 🔭 Actualmente estoy trabajando en [**mi portfolio**](https://github.com/raquel-castillejo/my-portfolio)
+- 🔭 Actualmente estoy mejorando mis proyectos de código y preparando mi portfolio.
 - 🌱 Estoy estudiando **JavaScript**
 - 📫 Puedes escribirme a **raquelcastillejo@pm.me**
 - ⚡ Sobre mí: **Soy una diseñadora gráfica interesada en las automatizaciones y el motion graphics.**
@@ -40,7 +40,7 @@
 
 ### A newbie frontend developer from Spain
 
-- 🔭 I’m currently working on [**my portfolio**](https://github.com/raquel-castillejo/my-portfolio)
+- 🔭 I’m currently improving my previous coding projects and working on my portfolio.
 - 🌱 I’m currently learning **JavaScript**
 - 📫 You can write me at **raquelcastillejo@pm.me**
 - ⚡ About me **I'm a graphic designer who likes automating and motion graphics.**
