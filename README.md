@@ -8,12 +8,13 @@
 
 # Hola 👋, soy Raquel Castillejo
 
-### Estudiante de frontend en Madrid
+### Diseñadora gráfica en Madrid
 
-- 🔭 Actualmente estoy mejorando mis proyectos de código y preparando mi portfolio.
-- 🌱 Estoy estudiando **JavaScript**
+- ⚡ Sobre mí: **Me interesan el diseño web, el motion graphics, la sostenibilidad, el diseño social... entre muchas otras cosas.**
+- 🌱 Actualmente refinando mis conocimientos de código (HTML, CSS, JS).
+- 🔭 Puedes ver mi portfolio en [raquelcastillejo.com](raquelcastillejo.com)
 - 📫 Puedes escribirme a **raquelcastillejo@pm.me**
-- ⚡ Sobre mí: **Soy una diseñadora gráfica interesada en las automatizaciones y el motion graphics.**
+
 
 ---
 
@@ -38,12 +39,12 @@
 
 # Hi 👋, I'm Raquel Castillejo
 
-### A newbie frontend developer from Spain
+### A graphic designer from Spain
 
-- 🔭 I’m currently improving my previous coding projects and working on my portfolio.
-- 🌱 I’m currently learning **JavaScript**
+- ⚡ About me **I'm interested in web design, motion graphics, sustainibility, social design... among other things.**
+- 🌱 I'm currently improving my knowledge of code (HTML, CSS, JS).
+- 🔭 You can see my portfolio at [raquelcastillejo.com](raquelcastillejo.com)
 - 📫 You can write me at **raquelcastillejo@pm.me**
-- ⚡ About me **I'm a graphic designer who likes automating and motion graphics.**
 
 ---
 
