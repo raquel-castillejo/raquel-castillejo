@@ -8,7 +8,7 @@
 
 - ⚡ Sobre mí: **Me interesan el diseño web, el motion graphics, la sostenibilidad, el diseño social... entre muchas otras cosas.**
 - 🌱 Actualmente refinando mis conocimientos aobre accesibilidad.
-- 🔭 Puedes ver mi portfolio en [raquelcastillejo.com](raquelcastillejo.com)
+- 🔭 Puedes ver mi portfolio en [www.raquelcastillejo.com](https://www.raquelcastillejo.com)
 - 📫 Puedes escribirme a **raquelcastillejo@pm.me**
 
 ---
@@ -25,5 +25,5 @@
 
 - ⚡ About me **I'm interested in web design, motion graphics, sustainibility, social design... among other things.**
 - 🌱 I'm currently improving my knowledge of accessibility.
-- 🔭 You can see my portfolio at [raquelcastillejo.com](raquelcastillejo.com)
+- 🔭 You can see my portfolio at [www.raquelcastillejo.com](https://www.raquelcastillejo.com)
 - 📫 You can write me at **raquelcastillejo@pm.me**
